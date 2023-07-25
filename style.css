@@ -1,0 +1,24 @@
+#i1{
+    margin-left: 35%;
+   height:8vh;
+   width:30vw;
+   font-family:"sans-serif";
+   margin-top: 3%;
+   border:none;
+   font-size: larger;
+   font-weight: bold;
+}
+#take-input{
+   margin-left: 35%;
+   width:30vw ;
+   font-family:"sans-serif";
+   border: none;
+   resize: none;
+   font-size: large;
+}
+input,textarea:focus{
+    outline: none;
+}
+
+
+
